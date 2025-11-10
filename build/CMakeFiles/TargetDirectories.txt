@@ -1,0 +1,4 @@
+C:/Users/Kode1n/lab_build/build/CMakeFiles/math.dir
+C:/Users/Kode1n/lab_build/build/CMakeFiles/app.dir
+C:/Users/Kode1n/lab_build/build/CMakeFiles/edit_cache.dir
+C:/Users/Kode1n/lab_build/build/CMakeFiles/rebuild_cache.dir
